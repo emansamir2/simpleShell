@@ -1,0 +1,1 @@
+\nmyglobal equals %d\n
